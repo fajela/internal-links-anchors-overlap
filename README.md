@@ -8,4 +8,4 @@ The script is designed to be run in Google Colab. You can access the Colab noteb
 
 ## More Information
 
-For a detailed explanation and context on how and why to use this script, check out our [blog post](https://fajela.com/code/anchor-text-overlaps/) on the Fajela website.
+For a detailed explanation and context on how and why to use this script, check out our [blog post on internal links anchor text ovelap](https://fajela.com/code/anchor-text-overlaps/) on the Fajela website.
